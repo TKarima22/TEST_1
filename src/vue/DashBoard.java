@@ -5,7 +5,7 @@ import java.awt.Component;
 import java.awt.Container;
 import java.awt.Point;
 import java.util.List;
-print
+printF()
 import javax.swing.JComponent;
 import javax.swing.JLayeredPane;
 
